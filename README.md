@@ -251,16 +251,27 @@ https://github.com/Sampsca/ThrownHammers/releases
 
 https://www.sentrizeal.com/pst_7.htm ( Nuevas animaciones de ropa y armadura )
 
+https://github.com/Sampsca/BGEE-Classic-Movies
+
 https://github.com/CrevsDaak/thalan
 
 
 $ FINAL $$$$$
 
-https://github.com/DaftHunk/Portraits-Portraits-Everywhere/
 
 https://github.com/SpellholdStudios/BP-BGT-Worldmap
 
 https://github.com/K4thos/EET_Tweaks ( BAJAR EXPERIENCIA 70 % y misiones 70 %)
+
+~EET_END/EET_END.TP2~ #0 #0 // EET end (last mod in install order) -> Standard installation ( EJECUTAR EET_END )
+
+https://www.morpheus-mart.com/tactics-remix
+
+https://github.com/DaftHunk/Portraits-Portraits-Everywhere/
+
+https://github.com/Bubb13/Bubbs-Spell-Menu-Extended
+
+https://www.morpheus-mart.com/enhanced-powergaming-scripts
 
 
 
