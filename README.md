@@ -51,6 +51,16 @@ https://github.com/AciferBG/Loretakers
 
 https://github.com/AciferBG/Dark-Tidings
 
+https://github.com/AciferBG/Throne-of-the-Mad-God
+
+https://github.com/AciferBG/Call-of-the-Lost-Goddess
+
+https://github.com/Gibberlings3/Ascension
+
+https://www.morpheus-mart.com/crucible
+
+https://github.com/Spellhold-Studios/Almateria-Restoration-Project
+
 
 
 https://github.com/The-Gate-Project/AerieBG1
