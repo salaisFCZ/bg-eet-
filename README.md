@@ -91,6 +91,10 @@ https://github.com/Spellhold-Studios/NTotSC
 
 https://github.com/Gitjas/hiddenadventure
 
+https://www.shsforums.net/files/category/65-the-darkest-day/ se necesita dejar archivo en bg 2 
+
+https://github.com/Spellhold-Studios/TDDz ejecutar este 
+
 https://github.com/Gibberlings3/Ascension
 
 https://www.morpheus-mart.com/crucible
