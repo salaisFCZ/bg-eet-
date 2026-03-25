@@ -5,7 +5,8 @@
 
  --------------------------------------------------------------------------------------------------------------------------------------------------
  
-un orden de lo que me sirvio una ves
+ 
+$$$$$$$$$$$$un orden de lo que me sirvio una ves$$$$$$$$$$$$
 
 https://github.com/Argent77/A7-DlcMerger
 
@@ -15,11 +16,16 @@ https://github.com/Pocket-Plane-Group/bg1ub
 
 https://github.com/red-carnelian/The-Stone-of-Askavar ( opcion mapa mundo bgp instalar despues) https://github.com/Spellhold-Studios/BP-BGT-Worldmap ( INSTALAR ESTE EN BG 2 )
 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 DESPUES DE EET INSTALAR EN CARPETA BG 2  ( al ejecutar eet copiar direccion de bg 1 al instalador )
 
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 https://github.com/Gibberlings3/EE_Fixpack 
 
@@ -31,7 +37,7 @@ https://github.com/Renegade0/InfinityUI
 
 https://github.com/Gibberlings3/iwdification
 
- $M I S I O N E S $$$$$$$$$$$$$$$$
+ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$M I S I O N E S $$$$$$$$$$$$$$$$
 
  https://github.com/The-Gate-Project/Kara-Tur
 
@@ -138,6 +144,8 @@ https://github.com/Argent77/A7-ImprovedArcher
 
 https://www.morpheus-mart.com/forgotten-armament ( AGREGAR OBJETOS Y TODO MENOS NUEVAS HABILIDADES Y CAMBIOS DE REGLAS DE NWN )
 
+https://forums.beamdog.com/discussion/41836/mod-kensai-rebalancing-for-bg-ee-and-bgii-ee-v2-6/p1 ( mejora kensai
+
 https://www.gibberlings3.net/mods/items/item_rev/  ( Kensai Can Wear Bracers: V4 Beta 10)
 
 
@@ -153,9 +161,9 @@ https://github.com/Gibberlings3/SwordCoastStratagems ( SOLO Wider selection of r
 
 https://github.com/Gibberlings3/Tweaks-Anthology
 
-https://github.com/Gibberlings3/PnP_Celestials
+https://www.spellholdstudios.net/ie/atweaks/    ( solo modificar poderes de hijo de baal - Prevent skeletal and incorporeal undead from being affected by Illithids' Devour Brain attack - Restore the Dispel Magic vulnerability to Nishruu and Hakeashars - Altered XP rewards from locks, traps and scrolls -> Improved (lowered) XP rewards from locks, traps and scrolls - Change the appearance of the Robe of Vecna - SOLO ESTO INSTALAR )
 
-https://github.com/The-Gate-Project/klatu-tweaks-and-fixes ( gloves of goodman HAYES guantes
+https://github.com/The-Gate-Project/klatu-tweaks-and-fixes ( gloves of goodman HAYES SOLAMENTE PARA MAGO SALVAJE ITEM)
 
 
 $ FINAL $$$$$
