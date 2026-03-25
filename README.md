@@ -6,7 +6,7 @@
  --------------------------------------------------------------------------------------------------------------------------------------------------
  
  
-$$$$$$$$$$$$un orden de lo que me sirvio una ves$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$ un orden de lo que me sirvio una ves $$$$$$$$$$$$$$$$$$$$$$$$
 
 https://github.com/Argent77/A7-DlcMerger
 
@@ -37,7 +37,7 @@ https://github.com/Renegade0/InfinityUI
 
 https://github.com/Gibberlings3/iwdification
 
- $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$M I S I O N E S $$$$$$$$$$$$$$$$
+ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$    M I S I O N E S      $$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
  https://github.com/The-Gate-Project/Kara-Tur
 
@@ -171,7 +171,7 @@ https://github.com/Gibberlings3/Road_To_Discovery_for_SoD
 
 
 
-$ D I A L O G O S   M E J O R A D O S$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ D I A L O G O S   M E J O R A D O S $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 https://github.com/Pocket-Plane-Group/Banter_Pack
 
@@ -187,7 +187,7 @@ https://github.com/SpellholdStudios/MinscFriendship
 
 
 
-$E N C U E N T R O S    N U E V O S   Y   ENEMIGOS $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ E N C U E N T R O S    N U E V O S   Y   E N E M I G O S $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 
 
@@ -206,7 +206,7 @@ https://github.com/The-Gate-Project/VampireTales ( encuentros Improved Cult of t
 
 
 
-$$ N U E V O S   I T E M S , M E J O R A S   Y    K I T S 
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ N U E V O S   I T E M S , M E J O R A S   Y    K I T S $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 https://github.com/The-Gate-Project/Nanstein
 
@@ -231,7 +231,7 @@ https://www.gibberlings3.net/mods/items/item_rev/  ( Kensai Can Wear Bracers: V4
 
 
 
-$ T O Q U E S $$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ T O Q U E S $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 https://github.com/Argent77/A7-HiddenGameplayOptions
 
@@ -256,7 +256,7 @@ https://github.com/Sampsca/BGEE-Classic-Movies
 https://github.com/CrevsDaak/thalan
 
 
-$ FINAL $$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ F I N A L $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 
 https://github.com/SpellholdStudios/BP-BGT-Worldmap
