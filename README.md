@@ -71,6 +71,31 @@ https://github.com/Pocket-Plane-Group/QuestPack ( instalar todo menos IA de enem
 
 https://www.gibberlings3.net/files/file/1002-continuous-npc-portraits/  ( Kivan to SoD and BG2 -> Assign Archer kit to Kivan  - Removed Kivan's timed quest - Slightly Boost Kivan's Ability Scores)
 
+https://github.com/Gibberlings3/The_Calling
+
+https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call
+
+https://github.com/Pocket-Plane-Group/Banter_Pack
+
+https://github.com/SpellholdStudios/IEP_Extended_Banter
+
+https://forums.beamdog.com/discussion/38195/rogue-rebalancing-for-bg-ee-and-bg2-ee ( SOLO AGREGAR NUEVO ENCUENTRO ENEMIGO CHOSEN OF CYRIC  Y Shadow Thief Improvements )
+
+https://github.com/Pocket-Plane-Group/Item_Upgrade
+
+https://github.com/Argent77/A7-ImprovedArcher
+
+https://github.com/K4thos/EET_Tweaks ( BAJAR EXPERIENCIA )
+
+https://www.morpheus-mart.com/forgotten-armament ( AGREGAR OBJETOS Y TODO MENOS NUEVAS HABILIDADES Y CAMBIOS DE REGLAS DE NWN )
+
+https://www.gibberlings3.net/mods/items/item_rev/  ( Kensai Can Wear Bracers: V4 Beta 10)
+
+https://github.com/Argent77/HQ-SoundClips-BG2EE
+
+https://github.com/Gibberlings3/SwordCoastStratagems ( SOLO Wider selection of random scrolls Y Improved BG Textscreens )
+
+https://github.com/Gibberlings3/Tweaks-Anthology
 
 
 
