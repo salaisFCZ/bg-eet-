@@ -61,6 +61,18 @@ https://www.morpheus-mart.com/crucible
 
 https://github.com/Spellhold-Studios/Almateria-Restoration-Project
 
+https://github.com/Gibberlings3/BG_Quests_And_Encounters
+
+https://github.com/Pocket-Plane-Group/UnfinishedBusiness
+
+https://github.com/Gitjas/Ascalons_Questpack
+
+https://github.com/Pocket-Plane-Group/QuestPack ( instalar todo menos IA de enemigos , tactics es mejor )
+
+https://www.gibberlings3.net/files/file/1002-continuous-npc-portraits/  ( Kivan to SoD and BG2 -> Assign Archer kit to Kivan  - Removed Kivan's timed quest - Slightly Boost Kivan's Ability Scores)
+
+
+
 
 
 https://github.com/The-Gate-Project/AerieBG1
