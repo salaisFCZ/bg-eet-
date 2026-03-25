@@ -99,13 +99,77 @@ https://downloads.weaselmods.net/download/shades-of-the-sword-coast/
 
 https://github.com/Austin-BG/HTaM
 
+https://github.com/Spellhold-Studios/Darron
+
+https://github.com/Gitjas/Adalons_Blood
+
+https://github.com/SpellholdStudios/ValygarFriendship
+
+https://github.com/RoxanneSHS/Ribalds_Genie
+
+https://github.com/Black-Wyrm-Lair/TowerOfDeception
+
+https://github.com/Black-Wyrm-Lair/The-Gray-Clan-Episode-1
+
+https://github.com/Black-Wyrm-Lair/Drizzt-Saga
+
+https://downloads.weaselmods.net/download/will-of-the-wisps/
+
+https://downloads.weaselmods.net/download/the-white-queen/
+
+https://downloads.weaselmods.net/download/i-shall-never-forget/
+
+https://downloads.weaselmods.net/download/eilistraees-song/
+
+https://github.com/Deratiseur/Ogre
+
+https://github.com/Spellhold-Studios/Slithering-Menace
+
+https://github.com/SpellholdStudios/The_Minotaur_and_Lilacor
+
+https://github.com/Argent77/A7-TotLM-BG2EE  (  Reduce by 75 percent )
+
+https://github.com/Gibberlings3/EndlessBG1
+
+https://github.com/Argent77/A7-TestYourMettle
+
+https://github.com/Pocket-Plane-Group/Assassinations
+
+https://github.com/Spellhold-Studios/Shadows-over-Soubar
+
+https://github.com/Spellhold-Studios/Expanded-Thief-Stronghold
+
+https://github.com/Spellhold-Studios/Fading-Promises
+
+https://github.com/Austin-BG/SearchGuild
+
+https://github.com/A-Wizard-Did-It/Black-Hearts
+
+https://github.com/Pocket-Plane-Group/Reunion
+
+https://github.com/SpellholdStudios/Adventures_In_Papperland
+
+https://github.com/Argent77/DjinniCompanion
+
+https://downloads.weaselmods.net/download/the-journey-to-the-whin-hill/
+
+https://downloads.weaselmods.net/download/juniper-and-the-stone-leech/
+
+https://downloads.weaselmods.net/download/innershade/
+
 https://github.com/Pocket-Plane-Group/QuestPack ( instalar todo menos IA de enemigos , tactics es mejor )
 
 https://www.gibberlings3.net/files/file/1002-continuous-npc-portraits/  ( Kivan to SoD and BG2 -> Assign Archer kit to Kivan  - Removed Kivan's timed quest - Slightly Boost Kivan's Ability Scores)
 
 https://github.com/Gibberlings3/The_Calling
 
+https://github.com/Spellhold-Studios/Bank-of-Baldurs-Gate
+
 https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call
+
+https://github.com/Gibberlings3/Road_To_Discovery_for_SoD
+
+
 
 $ D I A L O G O S   M E J O R A D O S$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
@@ -113,7 +177,19 @@ https://github.com/Pocket-Plane-Group/Banter_Pack
 
 https://github.com/SpellholdStudios/IEP_Extended_Banter
 
+https://github.com/Pocket-Plane-Group/NPC_Flirt_Packs
+
+https://github.com/SpellholdStudios/ImoenFriendship
+
+https://github.com/SpellholdStudios/ValygarFriendship
+
+https://github.com/SpellholdStudios/MinscFriendship
+
+
+
 $E N C U E N T R O S    N U E V O S   Y   ENEMIGOS $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
 
 https://github.com/SpellholdStudios/Duality_Odd_Quest_Mod
 
@@ -140,6 +216,10 @@ https://github.com/Pocket-Plane-Group/Under-Respresented_Items
 
 https://github.com/The-Gate-Project/Sir_Renal
 
+https://github.com/Dau1makan/Item-Pack
+
+https://downloads.weaselmods.net/download/of-heirlooms-and-classes/
+
 https://github.com/Argent77/A7-ImprovedArcher
 
 https://www.morpheus-mart.com/forgotten-armament ( AGREGAR OBJETOS Y TODO MENOS NUEVAS HABILIDADES Y CAMBIOS DE REGLAS DE NWN )
@@ -165,10 +245,22 @@ https://www.spellholdstudios.net/ie/atweaks/    ( solo modificar poderes de hijo
 
 https://github.com/The-Gate-Project/klatu-tweaks-and-fixes ( gloves of goodman HAYES SOLAMENTE PARA MAGO SALVAJE ITEM)
 
+https://github.com/Spellhold-Studios/Infinity-Sounds ( agrega sonidos clasicos o descartados )
+
+https://github.com/Sampsca/ThrownHammers/releases
+
+https://www.sentrizeal.com/pst_7.htm ( Nuevas animaciones de ropa y armadura )
+
+https://github.com/CrevsDaak/thalan
+
 
 $ FINAL $$$$$
 
-https://github.com/K4thos/EET_Tweaks ( BAJAR EXPERIENCIA )
+https://github.com/DaftHunk/Portraits-Portraits-Everywhere/
+
+https://github.com/SpellholdStudios/BP-BGT-Worldmap
+
+https://github.com/K4thos/EET_Tweaks ( BAJAR EXPERIENCIA 70 % y misiones 70 %)
 
 
 
