@@ -67,6 +67,8 @@ https://github.com/AciferBG/Call-of-the-Lost-Goddess
 
 https://downloads.weaselmods.net/download/tales-of-the-deep-gardens/
 
+https://github.com/Spellhold-Studios/DSotSC
+
 https://github.com/Spellhold-Studios/NTotSC
 
 https://github.com/Gitjas/hiddenadventure
