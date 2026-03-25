@@ -65,6 +65,8 @@ https://github.com/TotalMilk90/gorgon
 
 https://github.com/AciferBG/Dark-Tidings
 
+https://github.com/Pocket-Plane-Group/Sellswords
+
 https://github.com/AciferBG/Throne-of-the-Mad-God
 
 https://github.com/Skitia/Wings/releases
