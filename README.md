@@ -51,9 +51,15 @@ https://github.com/bucketfulofsunshine/the-pursuit-of-justice
 
 https://github.com/AciferBG/Loretakers
 
+https://github.com/TotalMilk90/gorgon 
+
 https://github.com/AciferBG/Dark-Tidings
 
 https://github.com/AciferBG/Throne-of-the-Mad-God
+
+https://github.com/Skitia/Wings/releases
+
+https://akadis.baldursgateworld.fr/Jan/JansQuestFr.html 
 
 https://github.com/AciferBG/Call-of-the-Lost-Goddess
 
@@ -69,11 +75,15 @@ https://www.morpheus-mart.com/crucible
 
 https://github.com/Spellhold-Studios/Almateria-Restoration-Project
 
+https://github.com/The-Gate-Project/Alcool
+
 https://github.com/Gibberlings3/BG_Quests_And_Encounters
 
 https://github.com/Pocket-Plane-Group/UnfinishedBusiness
 
 https://github.com/Gitjas/Ascalons_Questpack
+
+https://github.com/The-Gate-Project/DarkHorizons
 
 https://downloads.weaselmods.net/download/shades-of-the-sword-coast/
 
@@ -95,11 +105,15 @@ https://github.com/SpellholdStudios/IEP_Extended_Banter
 
 $E N C U E N T R O S    N U E V O S   Y   ENEMIGOS $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
+https://github.com/SpellholdStudios/Duality_Odd_Quest_Mod
+
 https://forums.beamdog.com/discussion/38195/rogue-rebalancing-for-bg-ee-and-bg2-ee ( SOLO AGREGAR NUEVO ENCUENTRO ENEMIGO CHOSEN OF CYRIC  Y Shadow Thief Improvements )
 
 https://github.com/The-Gate-Project/Com_encounters
 
 https://github.com/GraionDilach/ExtraExpandedEnhancedEncounters
+
+https://github.com/The-Gate-Project/BuTcheRy
 
 
 
@@ -123,6 +137,8 @@ https://github.com/Argent77/HQ-SoundClips-BG2EE
 https://github.com/Gibberlings3/SwordCoastStratagems ( SOLO Wider selection of random scrolls Y Improved BG Textscreens )
 
 https://github.com/Gibberlings3/Tweaks-Anthology
+
+https://github.com/Gibberlings3/PnP_Celestials
 
 
 
