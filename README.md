@@ -33,6 +33,8 @@ https://github.com/Renegade0/InfinityUI
 
 https://github.com/Gibberlings3/iwdification
 
+ $M I S I O N E S $$$$$$$$$$$$$$$$
+
 https://downloads.weaselmods.net/download/the-bloodied-stings-of-barovia/
 
 https://downloads.weaselmods.net/download/in-love-undeath/
@@ -55,6 +57,12 @@ https://github.com/AciferBG/Throne-of-the-Mad-God
 
 https://github.com/AciferBG/Call-of-the-Lost-Goddess
 
+https://downloads.weaselmods.net/download/tales-of-the-deep-gardens/
+
+https://github.com/Spellhold-Studios/NTotSC
+
+https://github.com/Gitjas/hiddenadventure
+
 https://github.com/Gibberlings3/Ascension
 
 https://www.morpheus-mart.com/crucible
@@ -67,6 +75,10 @@ https://github.com/Pocket-Plane-Group/UnfinishedBusiness
 
 https://github.com/Gitjas/Ascalons_Questpack
 
+https://downloads.weaselmods.net/download/shades-of-the-sword-coast/
+
+https://github.com/Austin-BG/HTaM
+
 https://github.com/Pocket-Plane-Group/QuestPack ( instalar todo menos IA de enemigos , tactics es mejor )
 
 https://www.gibberlings3.net/files/file/1002-continuous-npc-portraits/  ( Kivan to SoD and BG2 -> Assign Archer kit to Kivan  - Removed Kivan's timed quest - Slightly Boost Kivan's Ability Scores)
@@ -75,11 +87,26 @@ https://github.com/Gibberlings3/The_Calling
 
 https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call
 
+$ D I A L O G O S   M E J O R A D O S$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
 https://github.com/Pocket-Plane-Group/Banter_Pack
 
 https://github.com/SpellholdStudios/IEP_Extended_Banter
 
+$E N C U E N T R O S    N U E V O S   Y   ENEMIGOS $$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
 https://forums.beamdog.com/discussion/38195/rogue-rebalancing-for-bg-ee-and-bg2-ee ( SOLO AGREGAR NUEVO ENCUENTRO ENEMIGO CHOSEN OF CYRIC  Y Shadow Thief Improvements )
+
+https://github.com/The-Gate-Project/Com_encounters
+
+https://github.com/GraionDilach/ExtraExpandedEnhancedEncounters
+
+
+
+
+$$ N U E V O S   I T E M S , M E J O R A S   Y    K I T S 
+
+https://github.com/The-Gate-Project/Nanstein
 
 https://github.com/Pocket-Plane-Group/Item_Upgrade
 
