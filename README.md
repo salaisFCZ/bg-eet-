@@ -19,7 +19,7 @@ https://github.com/red-carnelian/The-Stone-of-Askavar ( opcion mapa mundo bgp in
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
-DESPUES DE EET INSTALAR EN CARPETA BG 2 
+DESPUES DE EET INSTALAR EN CARPETA BG 2  ( al ejecutar eet copiar direccion de bg 1 al instalador )
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
