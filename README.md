@@ -39,7 +39,11 @@ https://github.com/Renegade0/InfinityUI
 
 https://github.com/Gibberlings3/iwdification
 
+
+
  $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$    M I S I O N E S      $$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+ 
 
  https://github.com/The-Gate-Project/Kara-Tur
 
@@ -68,6 +72,8 @@ https://github.com/AciferBG/Dark-Tidings
 https://github.com/Pocket-Plane-Group/Sellswords
 
 https://github.com/AciferBG/Throne-of-the-Mad-God
+
+https://github.com/AngelGryph/MadeInHeaven_EncountersAndQuests/releases/tag/v5  ( INSTALAR SOLO QUEST NO MODIFICACIONES DE ENEMIGOS NI NADA DE ESO )
 
 https://github.com/Skitia/Wings/releases
 
@@ -181,6 +187,8 @@ https://github.com/Gibberlings3/Another_Fine_Hell/
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ D I A L O G O S   M E J O R A D O S $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
+
+
 https://github.com/Pocket-Plane-Group/Banter_Pack
 
 https://github.com/SpellholdStudios/IEP_Extended_Banter
@@ -216,6 +224,8 @@ https://github.com/The-Gate-Project/VampireTales ( encuentros Improved Cult of t
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ N U E V O S   I T E M S , M E J O R A S   Y    K I T S $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
+
+
 https://github.com/The-Gate-Project/Nanstein
 
 https://github.com/Pocket-Plane-Group/Item_Upgrade
@@ -241,6 +251,8 @@ https://www.gibberlings3.net/mods/items/item_rev/  ( Kensai Can Wear Bracers: V4
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ T O Q U E S $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
+
+
 https://github.com/Argent77/A7-HiddenGameplayOptions
 
 https://github.com/Argent77/HQ-SoundClips-BG2EE
@@ -264,7 +276,9 @@ https://github.com/Sampsca/BGEE-Classic-Movies
 https://github.com/CrevsDaak/thalan
 
 
+
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ F I N A L $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
 
 
 https://github.com/SpellholdStudios/BP-BGT-Worldmap
