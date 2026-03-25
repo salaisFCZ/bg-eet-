@@ -43,6 +43,12 @@ https://downloads.weaselmods.net/download/tangled-oak-isle/
 
 https://downloads.weaselmods.net/download/oozes-lounge/
 
+https://downloads.weaselmods.net/download/southern-edge/
+
+https://github.com/bucketfulofsunshine/the-pursuit-of-justice
+
+https://github.com/AciferBG/Loretakers
+
 
 
 https://github.com/The-Gate-Project/AerieBG1
