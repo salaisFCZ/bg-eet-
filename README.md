@@ -49,6 +49,8 @@ https://github.com/bucketfulofsunshine/the-pursuit-of-justice
 
 https://github.com/AciferBG/Loretakers
 
+https://github.com/AciferBG/Dark-Tidings
+
 
 
 https://github.com/The-Gate-Project/AerieBG1
