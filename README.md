@@ -93,9 +93,18 @@ https://github.com/Spellhold-Studios/NTotSC
 
 https://github.com/Gitjas/hiddenadventure
 
-https://www.shsforums.net/files/category/65-the-darkest-day/ se necesita dejar archivo en bg 2 
 
-https://github.com/Spellhold-Studios/TDDz ejecutar este 
+
+https://www.shsforums.net/files/category/65-the-darkest-day/   se necesita dejar archivo en bg 2 LEER TDDz DE ABAJO
+
+https://github.com/Spellhold-Studios/TDDz ejecutar este ¿Cómo se instala TDDz?
+
+Descarga TDD v1.14 y descomprímelo; mueve la carpeta «TDD» a tu carpeta de BG2EE; ignora los archivos «Setup-TDD.exe» y «Setup-TDD.tp2».
+No ejecutes BiG World Fixpack, ya que TDDz aplica los parches y correcciones a los archivos de TDD por sí mismo.
+Ejecuta «Setup-TDDz.exe» como cualquier otro mod de WeiDU.
+
+
+
 
 https://github.com/Gibberlings3/Ascension
 
