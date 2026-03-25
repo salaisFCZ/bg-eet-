@@ -117,6 +117,8 @@ https://github.com/GraionDilach/ExtraExpandedEnhancedEncounters
 
 https://github.com/The-Gate-Project/BuTcheRy
 
+https://github.com/The-Gate-Project/VampireTales ( encuentros Improved Cult of the Unseeing Eye - The Kali Cult -  My first store mod -  A. Magical Upgrade Store esos si - mejorar arpistas NO )
+
 
 
 
@@ -125,6 +127,8 @@ $$ N U E V O S   I T E M S , M E J O R A S   Y    K I T S
 https://github.com/The-Gate-Project/Nanstein
 
 https://github.com/Pocket-Plane-Group/Item_Upgrade
+
+https://github.com/Pocket-Plane-Group/Under-Respresented_Items
 
 https://github.com/Argent77/A7-ImprovedArcher
 
@@ -146,6 +150,8 @@ https://github.com/Gibberlings3/SwordCoastStratagems ( SOLO Wider selection of r
 https://github.com/Gibberlings3/Tweaks-Anthology
 
 https://github.com/Gibberlings3/PnP_Celestials
+
+https://github.com/The-Gate-Project/klatu-tweaks-and-fixes ( gloves of goodman HAYES guantes
 
 
 $ FINAL $$$$$
