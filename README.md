@@ -147,6 +147,8 @@ https://github.com/A-Wizard-Did-It/Black-Hearts
 
 https://github.com/Pocket-Plane-Group/Reunion
 
+https://github.com/Gibberlings3/BS_Baldurans_Seatower
+
 https://github.com/SpellholdStudios/Adventures_In_Papperland
 
 https://github.com/Argent77/DjinniCompanion
