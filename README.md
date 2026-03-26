@@ -71,6 +71,8 @@ https://github.com/AciferBG/Loretakers
 
 https://github.com/TotalMilk90/gorgon 
 
+https://github.com/evancauteren/bg2-autumns-twilight-mod
+
 https://github.com/AciferBG/Dark-Tidings
 
 https://github.com/Pocket-Plane-Group/Sellswords
