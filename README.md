@@ -302,7 +302,7 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 https://github.com/SpellholdStudios/BP-BGT-Worldmap
 
-https://github.com/K4thos/EET_Tweaks ( BAJAR EXPERIENCIA 70 % y misiones 70 %)
+https://github.com/K4thos/EET_Tweaks ( BAJAR EXPERIENCIA monsters 25 % y misiones 40 %)
 
 ~EET_END/EET_END.TP2~ #0 #0 // EET end (last mod in install order) -> Standard installation ( EJECUTAR EET_END )
 
