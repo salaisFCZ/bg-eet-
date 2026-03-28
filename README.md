@@ -255,6 +255,8 @@ https://github.com/The-Gate-Project/Sir_Renal
 
 https://github.com/Dau1makan/Item-Pack
 
+https://github.com/The-Gate-Project/RTT-ItemPack
+
 https://downloads.weaselmods.net/download/of-heirlooms-and-classes/
 
 https://github.com/Argent77/A7-ImprovedArcher
