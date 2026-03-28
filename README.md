@@ -41,6 +41,10 @@ https://github.com/Bubb13/EEex
 
 https://github.com/Renegade0/InfinityUI
 
+https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul
+
+https://www.sentrizeal.com/pst_7.htm ( Nuevas animaciones de ropa y armadura )
+
 https://github.com/Gibberlings3/iwdification
 
 
@@ -292,7 +296,6 @@ https://github.com/Sampsca/ThrownHammers/releases
 
 https://artisans-corner.com/bardic-wonders/ ( solo ocupar usar pergaminos de clerigo para bardo ,Item Restriction Tweaksâ€”Bards may use Helmets, armor caster , new bard spells,High Level Abilities, Armored Casting for Bards)
 
-https://www.sentrizeal.com/pst_7.htm ( Nuevas animaciones de ropa y armadura )
 
 https://github.com/Sampsca/BGEE-Classic-Movies
 
