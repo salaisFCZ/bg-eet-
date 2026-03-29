@@ -18,6 +18,8 @@ https://github.com/ElGamerViejuno/traduccion-siege-of-dragonspear-para-BGEE
 
 https://github.com/Pocket-Plane-Group/bg1ub
 
+https://github.com/Black-Wyrm-Lair/Drizzt-Saga ( agregar ejecutador )
+
 https://github.com/red-carnelian/The-Stone-of-Askavar ( opcion mapa mundo bgp instalar despues) https://github.com/Spellhold-Studios/BP-BGT-Worldmap ( INSTALAR ESTE EN BG 2 NO EJECUTAR SOLO MUESTRA)
 
 
