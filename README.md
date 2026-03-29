@@ -114,6 +114,8 @@ Ejecuta «Setup-TDDz.exe» como cualquier otro mod de WeiDU.
 
 https://github.com/Gibberlings3/Ascension
 
+https://github.com/Spellhold-Studios/Check-the-Bodies  / SOLO ESTO OPCION 1 Check the Bodies: main component , 2 NO / 3. Other improvements SI
+
 https://www.morpheus-mart.com/crucible
 
 https://github.com/Spellhold-Studios/Almateria-Restoration-Project
