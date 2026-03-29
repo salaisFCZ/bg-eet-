@@ -85,6 +85,8 @@ https://github.com/Pocket-Plane-Group/Sellswords
 
 https://github.com/AciferBG/Throne-of-the-Mad-God
 
+https://github.com/Black-Wyrm-Lair/The-Gray-Clan-Episode-1 ( agregar ejecutador )
+
 https://github.com/AngelGryph/MadeInHeaven_EncountersAndQuests/releases/tag/v5  ( INSTALAR SOLO QUEST NO MODIFICACIONES DE ENEMIGOS NI NADA DE ESO )
 
 https://github.com/Skitia/Wings/releases
