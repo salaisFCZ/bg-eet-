@@ -234,6 +234,8 @@ https://github.com/SpellholdStudios/Duality_Odd_Quest_Mod
 
 https://forums.beamdog.com/discussion/38195/rogue-rebalancing-for-bg-ee-and-bg2-ee ( SOLO AGREGAR NUEVO ENCUENTRO ENEMIGO CHOSEN OF CYRIC  Y Shadow Thief Improvements )
 
+https://www.shsforums.net/files/file/821-hanna-pnj/ TIENE MEJORAS DE OBJETOS EN ALGUNOS LUGARES Y MEJORA NUMERO ENEMIGOS
+
 https://github.com/The-Gate-Project/Com_encounters
 
 https://github.com/GraionDilach/ExtraExpandedEnhancedEncounters
