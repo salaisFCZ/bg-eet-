@@ -323,7 +323,7 @@ https://github.com/K4thos/EET_Tweaks ( BAJAR EXPERIENCIA monsters 25 % y misione
 
 https://www.morpheus-mart.com/tactics-remix
 
-https://github.com/DaftHunk/Portraits-Portraits-Everywhere/
+https://github.com/DaftHunk/Portraits-Portraits-Everywhere/  (ejecutar master)
 
 https://github.com/Bubb13/Bubbs-Spell-Menu-Extended
 
