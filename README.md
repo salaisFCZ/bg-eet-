@@ -146,7 +146,6 @@ https://github.com/RoxanneSHS/Ribalds_Genie
 
 https://github.com/Black-Wyrm-Lair/TowerOfDeception
 
-https://github.com/Black-Wyrm-Lair/The-Gray-Clan-Episode-1 ( agregar ejecutador )
 
 https://github.com/Black-Wyrm-Lair/Drizzt-Saga
 
