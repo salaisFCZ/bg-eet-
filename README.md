@@ -317,7 +317,7 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 https://github.com/SpellholdStudios/BP-BGT-Worldmap
 
-https://github.com/K4thos/EET_Tweaks ( BAJAR EXPERIENCIA monsters 25 % y misiones 40 %)
+https://github.com/K4thos/EET_Tweaks ( XP for killing creatures -> Decrease to 75%)  (XP for quests -> Decrease to 75%: 1.12)
 
 ~EET_END/EET_END.TP2~ #0 #0 // EET end (last mod in install order) -> Standard installation ( EJECUTAR EET_END )
 
