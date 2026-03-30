@@ -315,7 +315,7 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 
 
-https://github.com/SpellholdStudios/BP-BGT-Worldmap
+https://github.com/SpellholdStudios/BP-BGT-Worldmap (con el mapa del mundo grande, no el enorme)
 
 https://github.com/K4thos/EET_Tweaks ( XP for killing creatures -> Decrease to 75%)  (XP for quests -> Decrease to 75%: 1.12)
 
