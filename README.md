@@ -83,8 +83,6 @@ https://github.com/AciferBG/Dark-Tidings
 
 https://github.com/Pocket-Plane-Group/Sellswords
 
-https://github.com/AciferBG/Throne-of-the-Mad-God
-
 https://github.com/Black-Wyrm-Lair/The-Gray-Clan-Episode-1 ( agregar ejecutador )
 
 https://github.com/AngelGryph/MadeInHeaven_EncountersAndQuests/releases/tag/v5  ( INSTALAR SOLO QUEST NO MODIFICACIONES DE ENEMIGOS NI NADA DE ESO )
@@ -148,7 +146,7 @@ https://github.com/RoxanneSHS/Ribalds_Genie
 
 https://github.com/Black-Wyrm-Lair/TowerOfDeception
 
-https://github.com/Black-Wyrm-Lair/The-Gray-Clan-Episode-1
+https://github.com/Black-Wyrm-Lair/The-Gray-Clan-Episode-1 ( agregar ejecutador )
 
 https://github.com/Black-Wyrm-Lair/Drizzt-Saga
 
@@ -211,6 +209,10 @@ https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call
 https://github.com/Gibberlings3/Road_To_Discovery_for_SoD
 
 https://github.com/Gibberlings3/Another_Fine_Hell/
+
+https://github.com/SpellholdStudios/BP-BGT-Worldmap (con el mapa del mundo grande, no el enorme)
+
+https://github.com/AciferBG/Throne-of-the-Mad-God
 
 
 
@@ -315,7 +317,7 @@ $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
 
 
-https://github.com/SpellholdStudios/BP-BGT-Worldmap (con el mapa del mundo grande, no el enorme)
+
 
 https://github.com/K4thos/EET_Tweaks ( XP for killing creatures -> Decrease to 75%)  (XP for quests -> Decrease to 75%: 1.12)
 
