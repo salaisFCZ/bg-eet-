@@ -258,11 +258,9 @@ https://github.com/The-Gate-Project/VampireTales ( encuentros Improved Cult of t
 
 $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$ N U E V O S   I T E M S , M E J O R A S   Y    K I T S $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
 
-
+https://github.com/Pocket-Plane-Group/Item_Upgrade
 
 https://github.com/The-Gate-Project/Nanstein
-
-https://github.com/Pocket-Plane-Group/Item_Upgrade
 
 https://github.com/Pocket-Plane-Group/Under-Respresented_Items
 
