@@ -12,7 +12,7 @@ $$$$$$$$$$$$$$$$$$$$$$$$ un orden de lo que me sirvio una ves $$$$$$$$$$$$$$$$$$
 
 https://github.com/Argent77/A7-DlcMerger
 
-https://github.com/Gibberlings3/EE_Fixpack
+https://github.com/Gibberlings3/EE_Fixpack ( probar sin ee fixpack EET GRANDES )
 
 https://github.com/ElGamerViejuno/traduccion-siege-of-dragonspear-para-BGEE
 
@@ -37,7 +37,7 @@ https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul ( funciona 
 
 
 
-https://github.com/Gibberlings3/EE_Fixpack 
+https://github.com/Gibberlings3/EE_Fixpack ( probar sin ee fixpack EET GRANDES ) 
 
 https://github.com/Gibberlings3/EET
 
@@ -45,7 +45,7 @@ https://github.com/Bubb13/EEex
 
 https://github.com/Renegade0/InfinityUI
 
-https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul
+https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul ( probar sin ee BGGO EET GRANDES )
 
 https://www.sentrizeal.com/pst_7.htm ( Nuevas animaciones de ropa y armadura )
 
@@ -83,6 +83,8 @@ https://github.com/evancauteren/bg2-autumns-twilight-mod
 
 https://github.com/AciferBG/Dark-Tidings
 
+https://www.gibberlings3.net/mods/quests/the-cowled-menace/
+
 https://github.com/Pocket-Plane-Group/Sellswords
 
 https://github.com/Black-Wyrm-Lair/The-Gray-Clan-Episode-1 ( agregar ejecutador )
@@ -103,17 +105,13 @@ https://github.com/Spellhold-Studios/NTotSC
 
 https://github.com/Gitjas/hiddenadventure
 
+https://www.shsforums.net/files/category/65-the-darkest-day/   se necesita dejar archivo en bg 2 LEER TDDz DE ABAJO ( MOD INESTABLE PARA EET GRANDES )
 
-
-https://www.shsforums.net/files/category/65-the-darkest-day/   se necesita dejar archivo en bg 2 LEER TDDz DE ABAJO
-
-https://github.com/Spellhold-Studios/TDDz ejecutar este ¿Cómo se instala TDDz?
+https://github.com/Spellhold-Studios/TDDz ejecutar este ¿Cómo se instala TDDz?  ( MOD INESTABLE PARA EET GRANDES )
 
 Descarga TDD v1.14 y descomprímelo; mueve la carpeta «TDD» a tu carpeta de BG2EE; ignora los archivos «Setup-TDD.exe» y «Setup-TDD.tp2».
 No ejecutes BiG World Fixpack, ya que TDDz aplica los parches y correcciones a los archivos de TDD por sí mismo.
-Ejecuta «Setup-TDDz.exe» como cualquier otro mod de WeiDU.
-
-
+Ejecuta «Setup-TDDz.exe» como cualquier otro mod de WeiDU.( MOD INESTABLE PARA EET GRANDES )
 
 
 https://github.com/Gibberlings3/Ascension
@@ -142,14 +140,9 @@ https://github.com/Spellhold-Studios/Darron
 
 https://github.com/Gitjas/Adalons_Blood
 
-https://github.com/SpellholdStudios/ValygarFriendship
-
 https://github.com/RoxanneSHS/Ribalds_Genie
 
 https://github.com/Black-Wyrm-Lair/TowerOfDeception
-
-
-https://github.com/Black-Wyrm-Lair/Drizzt-Saga
 
 https://downloads.weaselmods.net/download/will-of-the-wisps/
 
@@ -180,8 +173,6 @@ https://github.com/Spellhold-Studios/Expanded-Thief-Stronghold
 https://github.com/Spellhold-Studios/Fading-Promises
 
 https://github.com/Austin-BG/SearchGuild
-
-https://github.com/A-Wizard-Did-It/Black-Hearts
 
 https://github.com/Pocket-Plane-Group/Reunion
 
