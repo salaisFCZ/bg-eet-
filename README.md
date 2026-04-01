@@ -22,7 +22,7 @@ https://github.com/A-Wizard-Did-It/Black-Hearts
 
 https://github.com/Black-Wyrm-Lair/Drizzt-Saga ( agregar ejecutador )
 
-https://github.com/red-carnelian/The-Stone-of-Askavar ( opcion mapa mundo bgp instalar despues) https://github.com/Spellhold-Studios/BP-BGT-Worldmap ( NO RECOMENTADO EET TIENE MAP /INSTALAR ESTE EN BG 2 NO EJECUTAR SOLO MUESTRA)
+https://github.com/red-carnelian/The-Stone-of-Askavar ( opcion predeterminada no bg bgp worldmap eet tiene mapa mundo) https://github.com/Spellhold-Studios/BP-BGT-Worldmap ( NO RECOMENTADO EET TIENE MAP /INSTALAR ESTE EN BG 2 NO EJECUTAR SOLO MUESTRA)
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
