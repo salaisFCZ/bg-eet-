@@ -113,6 +113,7 @@ Descarga TDD v1.14 y descomprímelo; mueve la carpeta «TDD» a tu carpeta de BG
 No ejecutes BiG World Fixpack, ya que TDDz aplica los parches y correcciones a los archivos de TDD por sí mismo.
 Ejecuta «Setup-TDDz.exe» como cualquier otro mod de WeiDU.( MOD INESTABLE PARA EET GRANDES )
 
+https://github.com/The-Gate-Project/TDD_Hall-of-Knowledge
 
 https://github.com/Gibberlings3/Ascension
 
